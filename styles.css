@@ -29,6 +29,10 @@
     border-radius: 5px;
 }
 
+.imagen-portada {
+    width: 100%;
+}
+
 .list-unstyled li {
     padding: 0.2em;
 }
