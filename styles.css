@@ -19,11 +19,11 @@
     background-color: rgb(244, 246, 251);
 }
 
-.FondoInicio {
-    background-image: url(/img/portada-1024x858.jpg);
-    background-repeat: no-repeat;
+.fondo {
+    background-image: url('img/converted_ColoridoIlustrativoEmpre_kxfRo9W.jpg');
+    /* Reemplaza 'tu-imagen.jpg' con el nombre de tu imagen */
     background-size: cover;
-    background-position: center center;
+    height: 100vh;
 }
 
 .textosn {
