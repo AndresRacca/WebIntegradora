@@ -19,6 +19,13 @@
     background-color: rgb(244, 246, 251);
 }
 
+.FondoInicio {
+    background-image: url(/img/portada-1024x858.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
 .textosn {
     padding-bottom: 5.5rem;
 }
