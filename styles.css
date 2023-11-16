@@ -1,14 +1,14 @@
-#mapa {
-    height: 100%;
-    width: 100%;
-}
-
 #servicios {
     background-color: #074D77;
 }
 
 #sobrenosotros {
     background-color: #B25E10;
+}
+
+#mapa {
+    height: 100%;
+    width: 100%;
 }
 
 .instagram {
@@ -40,6 +40,11 @@
 .contenedor-carousel {
     display: flex;
     justify-content: space-around;
+}
+
+.contenedor-carousel img {
+    width: 100%;
+    height: auto;
 }
 
 .img-d-block {
